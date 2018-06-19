@@ -1,3 +1,3 @@
-"hello world"
+const = "hello world"
 
 hello_world
